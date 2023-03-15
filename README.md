@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 -->
 
 # Mi nombre es Walter Hernández,
-### Soy estudiante avanzado de la **Licenciatura en Sistemas** de la **Universidad Nacional de Lanús**. He realizado cursos además por lo que tengo conocimientos de las siguientes tecnologías:
+### Soy estudiante avanzado de la **Licenciatura en Sistemas** de la **Universidad Nacional de Lanús**. Además de la carrera, he realizado también algunos cursos por lo que tengo conocimientos de las siguientes tecnologías:
 
 1. Redes (***CCNA***): configuración de routers, switches y firewalls (HP, Fortinet, Cisco).
 2. Programación: Java, Javascript, Python, C, C++, C#.
 3. Frontend: React, HTML, CSS.
 4. Backend: Springboot, Spring MVC, Flask, Django.
 5. Bases de datos: MySQL, SQL Server, MongoDB.
+
+Actualmente me encuentro realizando el trabajo final integrador y las practicas profesionales para recibirme como licenciado.
 
 <!--
 | Comando | Función                 |
